@@ -1,4 +1,4 @@
 CfAPittsburghBrigade
 ====================
 
-Basic style guide for CfA
+This is a basic boilerplate to be in compliance with the CfA style standards.
